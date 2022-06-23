@@ -1,2 +1,4 @@
 0 string/SCHOOL/School/data
-!:mime School
+cp /bin/ls 
+ls -la
+!:mime -m School
