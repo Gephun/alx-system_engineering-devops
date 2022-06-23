@@ -1,2 +1,3 @@
 cp /bin/ls .
 ls -la
+!: mime School
