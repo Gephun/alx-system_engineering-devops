@@ -1,7 +1,0 @@
-cp /bin/ls .
-ls -la
-<<<<<<< HEAD
-!: mime School
-=======
-!:mime School
->>>>>>> 608052514a3619b2dc4c828bd8a87ef0882db097
