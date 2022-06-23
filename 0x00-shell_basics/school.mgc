@@ -1,2 +1,3 @@
-0 string SCHOOL School data
+cp /bin/ls .
+ls -la
 !:mime School
